@@ -1,0 +1,30 @@
+body{
+    background-image: url(foto/personages.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+p{
+    color: azure;
+    font-size: 15px;
+}
+div{
+    width: 30%;
+    background-color: rebeccapurple;
+}
+
+nav{
+    float: right;
+    font-style: italic;
+    color: darkgoldenrod;
+    padding-right: 35px;
+}
+h1{
+    color: aliceblue;
+    
+    
+}
+ul{
+    color: aliceblue;
+}
