@@ -9,6 +9,7 @@ body{
 }   
 p{
     color: aliceblue;
+    
 }
 h1{
     color: aliceblue;
@@ -132,17 +133,64 @@ section{
     margin-top: 0px;
 }
 
+#personages{
+    margin-top: 850px;
+}
 .personagesfotoslinks{
     float: left;
+    margin-right: 10px;
+    
+    
 }
+.personagestekstlinks{
+    width: 35%;
+    height: 400px;
+    text-align: justify;
+}
+
 
 .personagesfotosrechts{
     float: right;
+    
 
+}
+.personagestekstrechts{
+    width: 25%;
+    float: right;
+    text-align: justify;
+    margin-right: 10px;
 }
 .bronnen{
     color: aliceblue;
 }
-#profiel{
-    width: 100px;
+#profielfoto{
+    width: 50%;
+    float: left;
+    margin-top: 70px;
+
+}
+#profieluit{
+    width: 40%;
+    text-align: justify;
+    float: right;
+    margin-right: 5%;
+}
+.title{
+    font-family: fantasy;
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+    
+}
+#comics{
+    margin-top: 100px;
+}
+
+.comicsfotos{
+    margin-left: 15%;
+    float: left;
+    
+}
+.comicstekst{
+    
 }
