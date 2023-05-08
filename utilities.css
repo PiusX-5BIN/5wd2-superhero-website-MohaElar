@@ -131,6 +131,11 @@ section{
 }
 #slogan{
     margin-top: 0px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-bottom: 50px;
+
 }
 
 #personages{
@@ -183,14 +188,21 @@ section{
     
 }
 #comics{
-    margin-top: 100px;
+    margin-top: 400px;
 }
 
 .comicsfotos{
-    margin-left: 15%;
-    float: left;
+    margin: 50px;
+    align-items: center;
     
+
 }
+
 .comicstekst{
     
 }
+#comiclijst{
+    color: rgb(255, 255, 255);
+}
+
+
